@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @coder-yet
+- 👋 Hi, I’m @coder-yeti
 - 👀 I’m interested in ROS, Python, CPP, Robotics
 - 🌱 I’m currently learning ROS Melodic
 - 💞️ I’m looking to collaborate on ROS
